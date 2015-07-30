@@ -1,9 +1,4 @@
----
-tags: kids, ruby, if statement, if/else, todo
-languages: ruby
-type: todo
-level: 1
----
+
 
 ## ToDo
 
