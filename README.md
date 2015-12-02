@@ -10,3 +10,4 @@ Create a method called `need_gas?` that accepts an argument. The argument you pa
 
 
 I want to be able to call the method by saying `need_gas?(100)`, meaning after I've driven 100 miles, do I need to stop and get gas? It's up to you to decide how many miles means someone needs to get gas, and what messages to use to alert them.
+<a href='https://learn.co/lessons/hs-if-else-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
